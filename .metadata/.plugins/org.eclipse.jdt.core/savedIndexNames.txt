@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/media/timetravel/01D52ACC0E9B6E60/university/Semester_III/Interactive_Programming/Java/ProyectoPi/.metadata/.plugins/org.eclipse.jdt.core
+2055620863.index
+1728008819.index
+2026246620.index
+1740228580.index
+2744475623.index
+2171846199.index

@@ -1,0 +1,14 @@
+/*
+ * Programacion Interactiva
+ * Autor: Julian Andres Orejuela Erazo - 1541304 
+ * Autor: Daniel Felipe Velez Cuaical - 1924306
+ * Mini proyecto 4: Juego de Blackjack.
+ */
+package comunes;
+
+/**
+ * Enum que contiene los posibles estados de un jugador.
+ */
+public enum estadoJugador {
+    ganador, perdedor, empate, volo
+}
