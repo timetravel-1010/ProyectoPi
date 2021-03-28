@@ -1,6 +1,8 @@
 *.class
 bin/
 .vscode/
+.metadata/
+.doc/
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,code-java
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,code-java
